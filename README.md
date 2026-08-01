@@ -24,11 +24,11 @@ This repository provides a mature learning path for the **CompTIA Security+ SY0-
 
 Its purpose is not limited to helping candidates pass an examination. It is designed to help learners build a solid cybersecurity foundation that can later support work in:
 
-- Security Operations Centre — SOC
-- Governance, Risk and Compliance — GRC
+- Security Operations Centre : SOC
+- Governance, Risk and Compliance : GRC
 - Incident Response
 - Cloud and Infrastructure Security
-- Identity and Access Management — IAM
+- Identity and Access Management : IAM
 - Vulnerability Management
 - Security Engineering
 - Cybersecurity Management and CISO functions
