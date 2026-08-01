@@ -1,217 +1,294 @@
 <div align="center">
 
-# 🛡️ CompTIA Security+ SY0-701  
-## From Cybersecurity Foundations to Exam Readiness
+# CompTIA Security+ SY0-701
+## Zero-to-Certified Learning System
 
-**A structured, practical, and exam-aligned learning roadmap for building real cybersecurity knowledge—not merely memorising answers.**
-
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B%20SY0--701-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/en-us/certifications/security/)
-[![Roadmap](https://img.shields.io/badge/Path-Structured%20Roadmap-2563EB?style=for-the-badge)](#-recommended-learning-roadmap)
-[![Resources](https://img.shields.io/badge/Resources-Free%20%2B%20Legal-059669?style=for-the-badge)](#-free-qcm-and-mock-exam-platforms)
-[![arharif](https://img.shields.io/badge/Created%20by-arharif-111827?style=for-the-badge)](https://arharif.github.io/)
+**A structured, practical, and ethical cybersecurity programme that transforms the Security+ syllabus into durable professional capability.**
 
 <br>
 
-> **Learn the concepts. Understand the architecture. Apply the controls. Analyse the scenarios. Pass the exam.**
+[![Security+ SY0-701](https://img.shields.io/badge/CompTIA-Security%2B%20SY0--701-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/en-us/certifications/security/)
+[![Learning System](https://img.shields.io/badge/Programme-8%20Weeks-17365D?style=for-the-badge)](#programme-at-a-glance)
+[![Free Resources](https://img.shields.io/badge/Resources-Free%20%26%20Ethical-18794E?style=for-the-badge)](#free-and-ethical-practice-resources)
+[![Maintained by arharif](https://img.shields.io/badge/Maintained%20by-arharif-111827?style=for-the-badge)](https://arharif.github.io/)
+
+<br>
+
+[**Start the video course**](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[**Read the master handbook**](./resources/Security_Plus_SY0-701_Master_Course_arharif.pdf)
+&nbsp;&nbsp;•&nbsp;&nbsp;
+[**Practise with free questions**](#free-and-ethical-practice-resources)
+
+<br>
+
+> **Learn deeply. Apply securely. Validate objectively. Certify ethically.**
 
 </div>
 
 ---
 
-## 📌 About This Repository
+## Executive Summary
 
-This repository provides a mature learning path for the **CompTIA Security+ SY0-701** certification.
+**Security+ Zero-to-Certified** is an eight-week, exam-aligned learning system designed to build both **CompTIA Security+ SY0-701 readiness** and **practical cybersecurity judgement**.
 
-Its purpose is not limited to helping candidates pass an examination. It is designed to help learners build a solid cybersecurity foundation that can later support work in:
+The programme combines:
 
-- Security Operations Centre : SOC
-- Governance, Risk and Compliance : GRC
-- Incident Response
-- Cloud and Infrastructure Security
-- Identity and Access Management : IAM
-- Vulnerability Management
-- Security Engineering
-- Cybersecurity Management and CISO functions
+- A complete free video course for first-pass learning
+- A detailed arharif master handbook for deep understanding
+- Domain-based practice questions and scenario analysis
+- Performance-based question preparation
+- A structured error-remediation method
+- Readiness gates based on unseen timed mock examinations
+- Practical connections to SOC, GRC, IAM, cloud security, incident response, security engineering, and CISO decision-making
 
-The roadmap follows a deliberate sequence:
+This repository is not a collection of exam dumps. It is a controlled learning journey that moves the learner through four stages:
 
-1. **Watch** the complete Professor Messer video course.
-2. **Deepen** every concept using the arharif Security+ Master Course.
-3. **Practise** with legitimate QCMs, scenario questions, and PBQ-style exercises.
-4. **Analyse** every incorrect or uncertain answer.
-5. **Simulate** the real examination under strict timing conditions.
-
-> [!IMPORTANT]
-> This is an independent educational repository. It is not affiliated with, endorsed by, or sponsored by CompTIA.  
-> It does **not** provide leaked examination questions, brain dumps, or unauthorised exam content.
+```text
+FOUNDATION → UNDERSTANDING → APPLICATION → VALIDATION
+```
 
 ---
 
-## 🎯 Learning Outcomes
+## Programme at a Glance
 
-By completing this roadmap, you should be able to:
-
-- Explain the five Security+ domains in your own words.
-- Recognise common cyber threats, vulnerabilities, and indicators of compromise.
-- Select appropriate preventive, detective, corrective, and compensating controls.
-- Understand secure enterprise, cloud, network, identity, and data architectures.
-- Analyse logs, alerts, incidents, vulnerabilities, and remediation priorities.
-- Connect technical security controls with governance, risk, compliance, and business objectives.
-- Answer scenario-based QCMs by identifying the **best**, **first**, or **most appropriate** action.
-- Approach performance-based questions methodically.
-- Demonstrate practical cybersecurity judgement instead of relying on memorisation.
+| Programme dimension | Coverage |
+|---|---:|
+| **Certification alignment** | CompTIA Security+ SY0-701 |
+| **Security domains** | 5 |
+| **Recommended duration** | 8 weeks |
+| **Strategic learning phases** | 4 |
+| **Primary video course** | Professor Messer SY0-701 |
+| **Deep-study resource** | arharif Security+ Master Course |
+| **Practice approach** | Domain questions, scenarios, PBQs, and timed mocks |
+| **Target readiness indicator** | 80–85% on new, unseen practice exams |
+| **Professional perspectives** | SOC, engineering, GRC, IAM, incident response, and CISO |
+| **Ethical position** | No leaked questions, stolen PBQs, or brain dumps |
 
 ---
 
-## 🧭 Recommended Learning Roadmap
+## Who This Programme Is For
+
+This roadmap is designed for:
+
+- Students beginning cybersecurity
+- IT professionals moving into security
+- SOC and incident-response candidates
+- GRC and risk professionals strengthening technical knowledge
+- Cloud, network, and infrastructure engineers
+- Security analysts preparing for their first major certification
+- Professionals seeking a structured foundation before CISSP, CISM, CySA+, or cloud-security certifications
+
+No previous cybersecurity certification is required. Basic networking and operating-system familiarity will make the journey easier.
+
+---
+
+## The Value Proposition
+
+Most Security+ repositories focus on notes, definitions, or random question banks. This learning system is designed differently.
+
+| Traditional preparation | Zero-to-Certified learning system |
+|---|---|
+| Memorise terminology | Understand the security and risk logic |
+| Repeat random questions | Diagnose weaknesses by exam objective |
+| Study tools in isolation | Connect people, process, and technology |
+| Focus only on passing | Build reusable professional knowledge |
+| Treat GRC and operations separately | Link SOC, engineering, GRC, and CISO decisions |
+| Trust repeated-test scores | Validate readiness using unseen timed questions |
+| Chase exam dumps | Protect certification integrity |
+
+---
+
+# Four-Phase Learning Journey
 
 ```mermaid
 flowchart LR
-    A["0. Read the official<br/>SY0-701 objectives"] --> B["1. Watch the complete<br/>Professor Messer playlist"]
-    B --> C["2. Study the arharif<br/>Master Course PDF"]
-    C --> D["3. Complete QCMs<br/>by domain"]
-    D --> E["4. Practise mixed<br/>mock exams and PBQs"]
-    E --> F["5. Review weak areas<br/>and retest"]
-    F --> G["6. Exam readiness<br/>80–85% on unseen tests"]
+    A["Phase 1<br/>Foundation"] --> B["Phase 2<br/>Deep Understanding"]
+    B --> C["Phase 3<br/>Application & Diagnosis"]
+    C --> D["Phase 4<br/>Readiness Validation"]
+
+    A1["Official objectives<br/>+ video course"] --> A
+    B1["Master handbook<br/>+ domain explanations"] --> B
+    C1["Practice questions<br/>+ PBQs + error log"] --> C
+    D1["Unseen timed mocks<br/>+ readiness gates"] --> D
 ```
 
-### The correct order
+## Phase 1 — Establish the Foundation
 
-| Phase | Resource | Objective |
-|---|---|---|
-| **0 — Scope** | Official SY0-701 Exam Objectives | Understand exactly what CompTIA may assess. |
-| **1 — Foundation** | Professor Messer video playlist | Build a clear first understanding of every objective. |
-| **2 — Deep Learning** | arharif Security+ Master Course PDF | Study concepts, examples, operational context, and explanations in depth. |
-| **3 — Reinforcement** | Topic-based QCMs | Confirm understanding one domain at a time. |
-| **4 — Application** | Mixed mock exams and PBQs | Practise scenario analysis, timing, and decision-making. |
-| **5 — Remediation** | Error log and targeted revision | Repair weak areas rather than repeatedly taking random tests. |
-| **6 — Validation** | New timed mock examinations | Confirm readiness using unseen questions. |
+**Objective:** Understand the complete scope of SY0-701 and build a reliable first-pass knowledge base.
+
+### Core activities
+
+- Review the current CompTIA Security+ exam objectives
+- Complete the Professor Messer SY0-701 video course in order
+- Build a concise acronym and terminology sheet
+- Mark objectives as Red, Amber, or Green
+- Avoid full mock examinations before completing the conceptual foundation
+
+### Required output
+
+A complete exam-objectives checklist with every objective reviewed at least once.
 
 ---
 
-## 🚀 Start Here
+## Phase 2 — Deepen Understanding
 
-### 1️⃣ Complete the Professor Messer SY0-701 Course
+**Objective:** Move from recognition to explanation, comparison, and practical understanding.
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20Complete%20SY0--701%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
+### Core activities
 
-**Recommended method**
+- Study the arharif Security+ Master Course
+- Revisit unclear objectives in detail
+- Connect every major concept to a realistic enterprise example
+- Complete end-of-section questions
+- Explain why correct answers are correct and alternatives are unsuitable
+- Connect technical controls to business risk and operational responsibilities
 
-- Watch the playlist in order.
-- Do not skip topics because they appear familiar.
-- Record only short notes during the first pass.
-- Write one practical example for every important concept.
-- Mark unclear objectives as **Red**, partially understood objectives as **Amber**, and mastered objectives as **Green**.
-- Do not begin full mock exams before completing the conceptual foundation.
+### Required output
 
-### 2️⃣ Deepen Your Knowledge with the arharif Master Course
+A personal knowledge base covering the five Security+ domains, supported by examples and clear distinctions between similar concepts.
 
-[![Open PDF](https://img.shields.io/badge/PDF-Open%20Security%2B%20Master%20Course-B91C1C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resources/Security_Plus_SY0-701_Master_Course_arharif.pdf)
+---
 
-The PDF should be stored at:
+## Phase 3 — Apply and Diagnose
+
+**Objective:** Convert knowledge into security judgement.
+
+### Core activities
+
+- Complete questions by domain
+- Practise scenario-based multiple-choice questions
+- Analyse PBQ-style activities
+- Maintain a structured error log
+- Treat guessed answers as incorrect
+- Revisit weak objectives before attempting more mixed tests
+
+### Required output
+
+A weakness heatmap and remediation plan organised by domain and objective.
+
+---
+
+## Phase 4 — Validate Readiness
+
+**Objective:** Confirm that performance is reliable under realistic examination conditions.
+
+### Core activities
+
+- Complete new, unseen mixed mock examinations
+- Use a strict 90-minute limit
+- Practise skipping and returning to difficult questions
+- Review every incorrect and uncertain answer
+- Verify examination rules, identification, scheduling, and technical requirements
+- Book the examination only after meeting the readiness gates
+
+### Required output
+
+At least three recent timed mock results supported by an updated error log and a final readiness decision.
+
+---
+
+# Start Here
+
+## 1. Review the Official Examination Scope
+
+Use the current CompTIA Security+ page and official examination objectives as the source of truth.
+
+[![Official Security+ Page](https://img.shields.io/badge/Official-CompTIA%20Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/en-us/certifications/security/)
+
+> [!IMPORTANT]
+> Courses, videos, books, and practice platforms are supporting resources. The latest CompTIA-published objectives remain the authoritative scope.
+
+---
+
+## 2. Complete the Professor Messer Video Course
+
+[![Watch the Course](https://img.shields.io/badge/YouTube-Start%20the%20SY0--701%20Course-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
+
+### Recommended method
+
+1. Watch the playlist in objective order.
+2. Record concise notes rather than transcribing videos.
+3. Write one practical example for each important concept.
+4. Mark unclear topics as **Red**, partial understanding as **Amber**, and mastery as **Green**.
+5. Revisit the corresponding lesson before moving to mixed practice.
+
+---
+
+## 3. Study the arharif Master Handbook
+
+[![Open the Master Course](https://img.shields.io/badge/PDF-Security%2B%20Master%20Course-B91C1C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resources/Security_Plus_SY0-701_Master_Course_arharif.pdf)
+
+Store the document at:
 
 ```text
 resources/Security_Plus_SY0-701_Master_Course_arharif.pdf
 ```
 
-Use the handbook after completing the video course to:
+The handbook is designed to help learners:
 
-- Revisit every Security+ objective in greater depth.
-- Connect definitions to realistic enterprise scenarios.
-- Understand the perspectives of analysts, engineers, GRC teams, and CISOs.
-- Review end-of-section questions and explanations.
-- Identify why an answer is correct and why the alternatives are incorrect.
-- Build knowledge that remains useful after the certification exam.
-
-### 3️⃣ Keep the Official Blueprint Open
-
-[![Exam Objectives](https://img.shields.io/badge/Official%20Scope-SY0--701%20Exam%20Objectives-4B5563?style=for-the-badge)](https://www.examcompass.com/comptia-certifications/security-plus/comptia-security-plus-sy0-701-exam-objectives.pdf)
-
-Use the official objectives as a checklist. A course is complete only when you can explain each listed objective without depending on notes.
+- Understand each objective more deeply
+- Connect definitions to realistic enterprise situations
+- Compare frequently confused technologies and controls
+- Understand SOC, engineering, GRC, and CISO perspectives
+- Review original questions with explanations
+- Build knowledge that remains useful after certification
 
 ---
 
-## 🧩 Security+ Exam Snapshot
+# Security+ Domain Dashboard
 
-| Item | SY0-701 |
-|---|---|
-| **Exam code** | SY0-701 |
-| **Maximum questions** | 90 |
-| **Question formats** | Multiple-choice, multiple-response, and performance-based questions |
-| **Duration** | 90 minutes |
-| **Passing score** | 750 on a scale of 100–900 |
-| **Primary goal** | Validate practical, vendor-neutral cybersecurity knowledge and judgement |
-
-> [!NOTE]
-> Always verify the current exam details and policies on the official CompTIA website before purchasing or scheduling an exam.
-
----
-
-# 🏛️ The Five Security+ Domains
-
-| Domain | Weight | Main Question |
-|---|---:|---|
-| **1. General Security Concepts** | **12%** | What principles and controls form the foundation of cybersecurity? |
-| **2. Threats, Vulnerabilities, and Mitigations** | **22%** | What can attack the organisation, where are the weaknesses, and how should they be reduced? |
-| **3. Security Architecture** | **18%** | How should secure and resilient systems, networks, cloud services, and data flows be designed? |
-| **4. Security Operations** | **28%** | How do security teams prevent, detect, investigate, respond to, and recover from incidents? |
-| **5. Security Program Management and Oversight** | **20%** | How does an organisation govern cybersecurity, risk, compliance, vendors, awareness, and assurance? |
+| Domain | Weight | Strategic question | Primary capability |
+|---|---:|---|---|
+| **1. General Security Concepts** | **12%** | What principles and controls form the security foundation? | Security fundamentals and cryptography |
+| **2. Threats, Vulnerabilities, and Mitigations** | **22%** | What can attack us, where are we weak, and how do we reduce exposure? | Threat and vulnerability analysis |
+| **3. Security Architecture** | **18%** | How should secure and resilient systems be designed? | Architecture and data protection |
+| **4. Security Operations** | **28%** | How do we prevent, detect, investigate, respond, and recover? | Operational security and incident response |
+| **5. Security Programme Management and Oversight** | **20%** | How is cybersecurity governed, measured, and assured? | Governance, risk, compliance, and oversight |
 
 ---
 
 <details>
 <summary><strong>Domain 1 — General Security Concepts · 12%</strong></summary>
 
-<br>
-
 ### Purpose
 
-This domain establishes the language and fundamental logic of cybersecurity. It explains what security is trying to protect, how controls are classified, how trust is managed, and why cryptography and change management matter.
+This domain establishes the language and logic of cybersecurity. It explains what security protects, how controls are classified, how trust is established, and how cryptography supports confidentiality, integrity, authentication, and non-repudiation.
 
 ### Core subjects
 
 - Technical, managerial, operational, and physical controls
-- Preventive, deterrent, detective, corrective, compensating, and directive controls
-- Confidentiality, Integrity, and Availability — CIA
-- Authentication, Authorization, and Accounting — AAA
-- Non-repudiation
-- Zero Trust principles
-- Gap analysis
-- Physical security and deception technologies
-- Change management
+- Preventive, deterrent, detective, corrective, directive, and compensating controls
+- Confidentiality, Integrity, and Availability
+- Authentication, Authorisation, and Accounting
+- Non-repudiation and Zero Trust
+- Change management and gap analysis
 - Symmetric and asymmetric encryption
 - Hashing, salting, digital signatures, and certificates
-- Public Key Infrastructure — PKI
-- TPM, HSM, key management, tokenisation, masking, and obfuscation
+- Public Key Infrastructure
+- TPM, HSM, tokenisation, masking, and key management
 
-### Simple example
+### Practical example
 
-A company protects its payroll database through:
+A payroll system protects salary data through:
 
-- **Confidentiality:** only authorised HR staff can read salaries.
-- **Integrity:** unauthorised salary changes are detected and rejected.
-- **Availability:** payroll remains accessible during the payment period.
+- **Confidentiality:** only authorised HR staff can view salaries.
+- **Integrity:** unauthorised changes are prevented or detected.
+- **Availability:** payroll remains accessible when payments are processed.
 - **Authentication:** the system verifies the employee's identity.
-- **Authorisation:** the system determines which records the employee may access.
-- **Accounting:** the system records who viewed or changed each record.
-
-### Real-world perspective
-
-A SOC analyst sees alerts and evidence.  
-A security engineer designs and deploys controls.  
-A GRC professional verifies that controls meet requirements.  
-A CISO ensures that the combined control environment reduces business risk.
+- **Authorisation:** access is limited according to job responsibilities.
+- **Accounting:** sensitive access and changes are logged.
 
 ### Evidence of mastery
 
 You should be able to:
 
-- Classify a control by category and function.
-- Distinguish authentication from authorisation.
-- Explain encryption, hashing, and digital signatures without confusing them.
-- Describe how PKI establishes trust.
-- Explain why uncontrolled changes create security incidents.
-- Select the most appropriate cryptographic solution for a scenario.
+- Classify controls by category and function
+- Distinguish authentication from authorisation
+- Explain encryption, hashing, and digital signatures
+- Describe how PKI establishes trust
+- Explain the security importance of controlled change
+- Select appropriate cryptographic mechanisms for a scenario
 
 </details>
 
@@ -220,50 +297,47 @@ You should be able to:
 <details>
 <summary><strong>Domain 2 — Threats, Vulnerabilities, and Mitigations · 22%</strong></summary>
 
-<br>
-
 ### Purpose
 
-This domain explains who attacks systems, why they attack, how they enter, which weaknesses they exploit, what indicators they leave, and which mitigations reduce the risk.
+This domain explains who attacks organisations, why they attack, how they enter, which weaknesses they exploit, which indicators they leave, and which mitigations reduce the risk.
 
 ### Core subjects
 
-- Nation-state, criminal, insider, hacktivist, and unskilled threat actors
-- Threat actor motivations and capabilities
-- Email, SMS, voice, file, image, removable-media, wireless, and supply-chain vectors
-- Phishing, smishing, vishing, pretexting, impersonation, and business email compromise
-- Application, operating-system, hardware, cloud, mobile, virtualisation, and cryptographic vulnerabilities
-- SQL injection, cross-site scripting, buffer overflow, race conditions, and directory traversal
-- Ransomware, trojans, worms, spyware, rootkits, keyloggers, and logic bombs
+- Nation-state, criminal, insider, hacktivist, and unskilled actors
+- Motivations, capabilities, and attack surfaces
+- Phishing, smishing, vishing, pretexting, impersonation, and BEC
+- Application, operating-system, cloud, hardware, and mobile vulnerabilities
+- Injection, XSS, buffer overflow, race conditions, and directory traversal
+- Ransomware, trojans, worms, spyware, rootkits, and keyloggers
 - DDoS, DNS, wireless, on-path, replay, password, and cryptographic attacks
-- Indicators of compromise and suspicious behaviour
-- Segmentation, isolation, patching, hardening, monitoring, access control, and least privilege
+- Indicators of compromise
+- Segmentation, isolation, hardening, patching, monitoring, and least privilege
 
-### Simple example
+### Practical example
 
-An employee receives an urgent message appearing to come from the CEO and requesting an immediate bank transfer.
+An employee receives an urgent message appearing to come from the CEO and requesting an immediate transfer.
 
-The security problem is not merely “a bad email.” It may involve:
+A mature analysis considers:
 
-1. Brand or executive impersonation
+1. Executive impersonation
 2. Social engineering and urgency
-3. Possible account compromise
-4. Weak payment verification procedures
-5. Insufficient awareness training
-6. Missing email authentication or monitoring controls
+3. Potential email-account compromise
+4. Weak payment-verification procedures
+5. Missing awareness or reporting controls
+6. Email authentication, filtering, and monitoring gaps
 
-A mature mitigation combines people, process, and technology.
+The appropriate response combines people, process, and technology.
 
 ### Evidence of mastery
 
 You should be able to:
 
-- Differentiate a threat, vulnerability, exploit, risk, and control.
-- Match threat actors with likely motivations.
-- Recognise attack indicators from a scenario or log extract.
-- Select the most effective mitigation instead of the most expensive control.
-- Distinguish prevention from detection and response.
-- Explain why patching alone does not eliminate every vulnerability.
+- Distinguish threat, vulnerability, exploit, risk, and control
+- Match threat actors to likely motivations
+- Recognise suspicious indicators in scenarios and logs
+- Select proportionate mitigations
+- Distinguish preventive, detective, and corrective actions
+- Explain why patching alone does not eliminate all risk
 
 </details>
 
@@ -272,53 +346,48 @@ You should be able to:
 <details>
 <summary><strong>Domain 3 — Security Architecture · 18%</strong></summary>
 
-<br>
-
 ### Purpose
 
-This domain focuses on designing secure, resilient, and recoverable technology environments. It connects business requirements to network, cloud, infrastructure, identity, and data protection decisions.
+This domain focuses on designing secure, resilient, scalable, and recoverable environments across on-premises, cloud, hybrid, virtualised, containerised, mobile, IoT, and industrial systems.
 
 ### Core subjects
 
-- On-premises, cloud, hybrid, serverless, microservices, and Infrastructure as Code
-- Virtualisation, containers, IoT, ICS, SCADA, RTOS, and embedded systems
-- High availability, scalability, resilience, recovery, and cost
-- Segmentation, security zones, jump servers, proxies, IDS/IPS, load balancers, and sensors
-- Firewalls, WAFs, NGFWs, and UTM appliances
+- On-premises, cloud, hybrid, serverless, and microservices
+- Virtualisation, containers, IoT, ICS, SCADA, and embedded systems
+- High availability, resilience, recovery, and scalability
+- Segmentation, security zones, jump servers, proxies, and sensors
+- Firewalls, WAFs, IDS/IPS, load balancers, and secure access
 - VPN, TLS, IPsec, SD-WAN, and SASE
-- Fail-open and fail-closed decisions
-- Data types, classification, sovereignty, geolocation, and lifecycle
+- Fail-open and fail-closed design
+- Data classification, sovereignty, geolocation, and lifecycle
 - Data at rest, in transit, and in use
-- Encryption, hashing, masking, tokenisation, obfuscation, and access restrictions
-- Backups, replication, clustering, load balancing, and disaster recovery
+- Encryption, masking, tokenisation, access restriction, and backup
 
-### Simple example
+### Practical example
 
-A payment platform cannot rely on one firewall and one database server.
+A payment platform requires more than one firewall.
 
 A resilient architecture may include:
 
-- Network segmentation between public, application, and database zones
-- A WAF in front of public web applications
-- Strong identity controls for administrators
-- Encryption for sensitive data in transit and at rest
-- Central logging and monitoring
+- Segmentation between public, application, and database zones
+- A WAF in front of internet-facing applications
+- Strong administrator identity controls
+- Encryption for sensitive data
+- Centralised logging and monitoring
 - Redundant services across availability zones
-- Tested backups and documented recovery objectives
-- Controlled third-party and remote access
-
-Security architecture is the planned arrangement of these protections—not a random collection of tools.
+- Tested backups and recovery objectives
+- Controlled third-party access
 
 ### Evidence of mastery
 
 You should be able to:
 
-- Select the right control placement for a scenario.
-- Explain shared responsibility in cloud environments.
-- Distinguish high availability from backup and disaster recovery.
-- Match data states with appropriate protections.
-- Explain segmentation, isolation, and Zero Trust architecture.
-- Analyse the security trade-offs of cloud, virtualisation, containers, IoT, and legacy systems.
+- Select appropriate control placement
+- Explain cloud shared responsibility
+- Distinguish high availability, backup, and disaster recovery
+- Match data states with suitable protections
+- Explain segmentation, isolation, and Zero Trust architecture
+- Analyse architectural trade-offs and constraints
 
 </details>
 
@@ -327,128 +396,211 @@ You should be able to:
 <details>
 <summary><strong>Domain 4 — Security Operations · 28%</strong></summary>
 
-<br>
-
 ### Purpose
 
-This is the largest Security+ domain. It explains how security is operated every day: hardening, monitoring, vulnerability management, identity administration, alert investigation, incident response, automation, and recovery.
+This is the largest domain. It explains how cybersecurity is operated every day through hardening, monitoring, vulnerability management, identity administration, investigation, incident response, automation, forensics, and recovery.
 
 ### Core subjects
 
-- Secure baselines, hardening, patching, and configuration management
-- Wireless, mobile, application, cloud, and endpoint security
+- Secure baselines, patching, configuration management, and hardening
 - Asset inventory and lifecycle management
-- Vulnerability scanning, analysis, prioritisation, remediation, and validation
-- SIEM, SOAR, EDR, DLP, IDS/IPS, firewalls, and network monitoring
+- Vulnerability scanning, prioritisation, remediation, and validation
+- SIEM, SOAR, EDR, DLP, IDS/IPS, and network monitoring
 - Logs, alerts, dashboards, packet captures, and metadata
-- Identity provisioning, deprovisioning, federation, SSO, MFA, PAM, and access reviews
+- Provisioning, deprovisioning, SSO, federation, MFA, and PAM
 - Automation and orchestration
-- Incident response preparation, detection, analysis, containment, eradication, recovery, and lessons learned
-- Digital forensics, evidence collection, chain of custody, and legal hold
-- Backups, restoration, continuity, and recovery testing
+- Incident-response lifecycle
+- Digital evidence, chain of custody, and legal hold
+- Backup restoration, continuity, and recovery testing
 
-### Simple example
+### Practical example
 
 An EDR alert reports PowerShell launching an encoded command on an executive laptop.
 
-A mature analyst does not immediately wipe the device. The analyst should:
+A mature analyst should:
 
 1. Validate the alert and gather context.
 2. Determine whether the activity is authorised.
-3. Review process trees, network connections, users, and related alerts.
-4. Assess the scope and potential business impact.
+3. Review process trees, connections, users, and related alerts.
+4. Assess scope and business impact.
 5. Contain the endpoint when justified.
 6. Preserve relevant evidence.
-7. Eradicate the cause and recover safely.
-8. Document the incident and improve controls.
+7. Eradicate the cause and recover securely.
+8. Document lessons learned and control improvements.
 
 ### Evidence of mastery
 
 You should be able to:
 
-- Interpret common security logs and alerts.
-- Prioritise vulnerabilities using technical and business context.
-- Describe the complete incident response lifecycle.
-- Distinguish containment from eradication and recovery.
-- Explain identity lifecycle and privileged-access controls.
-- Choose appropriate monitoring, endpoint, network, and data security tools.
-- Preserve evidence and maintain chain of custody.
+- Interpret common logs and alerts
+- Prioritise vulnerabilities using technical and business context
+- Describe the incident-response lifecycle in the correct sequence
+- Distinguish containment, eradication, and recovery
+- Explain privileged access and identity lifecycle controls
+- Select appropriate monitoring and protection technologies
+- Preserve evidence and maintain chain of custody
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Domain 5 — Security Program Management and Oversight · 20%</strong></summary>
-
-<br>
+<summary><strong>Domain 5 — Security Programme Management and Oversight · 20%</strong></summary>
 
 ### Purpose
 
-This domain connects cybersecurity to governance and business management. It explains how organisations define expectations, manage risk, oversee third parties, maintain compliance, educate people, and validate control effectiveness.
+This domain connects cybersecurity to governance and business management. It explains how organisations define expectations, manage risk, oversee third parties, maintain compliance, educate employees, and validate control effectiveness.
 
 ### Core subjects
 
-- Policies, standards, procedures, guidelines, and governance structures
+- Policies, standards, procedures, guidelines, and governance
 - Roles, responsibilities, accountability, and segregation of duties
-- Risk identification, assessment, analysis, treatment, acceptance, transfer, and avoidance
-- Risk registers, appetite, tolerance, likelihood, impact, and key risk indicators
+- Risk identification, analysis, treatment, acceptance, transfer, and avoidance
+- Risk appetite, tolerance, inherent risk, residual risk, and KRIs
 - Business impact analysis
-- Third-party risk, contracts, due diligence, monitoring, and offboarding
-- Compliance, privacy, legal, regulatory, and contractual requirements
-- Internal and external audits
-- Attestation, certification, penetration testing, and control assessments
-- Security awareness, phishing simulations, role-based training, and culture
+- Third-party due diligence, contracts, monitoring, and offboarding
+- Legal, regulatory, contractual, privacy, and compliance requirements
+- Audits, assessments, attestations, certifications, and penetration testing
+- Security awareness and role-based training
 - Business continuity, disaster recovery, and crisis management
 - Exceptions, compensating controls, and risk acceptance
 
-### Simple example
+### Practical example
 
 A critical legacy system cannot support MFA.
 
-A mature organisation should not simply ignore the requirement. It should:
+A mature organisation should:
 
 1. Document the control gap.
 2. Assess likelihood and business impact.
 3. Identify feasible compensating controls.
 4. Assign a risk owner.
 5. Approve a time-limited exception.
-6. Monitor the residual risk.
+6. Monitor residual risk.
 7. Create a remediation or replacement roadmap.
-8. Review the exception before it expires.
+8. Review the exception before expiry.
 
 ### Evidence of mastery
 
 You should be able to:
 
-- Distinguish policies, standards, procedures, and guidelines.
-- Calculate and interpret basic quantitative risk values.
-- Explain risk appetite, tolerance, inherent risk, and residual risk.
-- Select appropriate third-party controls throughout the supplier lifecycle.
-- Distinguish audits, assessments, attestations, and penetration tests.
-- Connect cybersecurity decisions to business objectives and accountability.
+- Distinguish policies, standards, procedures, and guidelines
+- Explain qualitative and quantitative risk
+- Interpret risk appetite, tolerance, inherent risk, and residual risk
+- Select third-party controls across the supplier lifecycle
+- Distinguish audits, assessments, attestations, and penetration tests
+- Connect security decisions to business objectives and accountability
 
 </details>
 
 ---
 
-## 🧠 The arharif Learning Method
+# Eight-Week Delivery Plan
 
-Use the following cycle for every objective:
+| Week | Focus | Key activities | Required output |
+|---|---|---|---|
+| **1** | General security concepts | Controls, CIA, AAA, Zero Trust, cryptography, and PKI | Control taxonomy and cryptography summary |
+| **2** | Threat actors and vectors | Actors, motivations, social engineering, and attack surfaces | Threat-to-control mapping |
+| **3** | Vulnerabilities and mitigations | Application, network, endpoint, cloud, and malware scenarios | Attack and remediation matrix |
+| **4** | Security architecture | Cloud, segmentation, resilience, data protection, and secure design | Secure architecture diagram |
+| **5** | Security operations | Hardening, vulnerability management, monitoring, IAM, and incident response | Operational security workflow |
+| **6** | Programme management | Governance, risk, third parties, compliance, awareness, and continuity | Risk entry and governance hierarchy |
+| **7** | Integrated practice | Mixed questions, PBQs, error analysis, and targeted revision | Weakness heatmap and remediation plan |
+| **8** | Final validation | Timed mocks, logistics, readiness review, and final revision | Evidence-based exam decision |
+
+---
+
+# Certification Readiness Gates
+
+Do not assess readiness through confidence alone. Use measurable exit criteria.
+
+| Gate | Exit criterion |
+|---|---|
+| **G1 — Coverage** | Every official exam objective has been reviewed |
+| **G2 — Comprehension** | Each major objective can be explained without notes |
+| **G3 — Application** | Scenario questions can be answered with defensible reasoning |
+| **G4 — Remediation** | Red and Amber objectives have documented corrective study actions |
+| **G5 — Performance** | Consistent 80–85% results on new, unseen mixed mock exams |
+| **G6 — Examination readiness** | Timing, PBQ strategy, identity, scheduling, and examination rules are confirmed |
+
+> [!CAUTION]
+> No practice score guarantees a pass. Repeated tests can measure memory rather than competence. New and unseen questions provide stronger readiness evidence.
+
+---
+
+# Free and Ethical Practice Resources
+
+| Platform | Free resource | Best use | Recommended stage |
+|---|---|---|---|
+| **Professor Messer Course Index** | [Free SY0-701 course](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/) | Find lessons by exact exam objective | All phases |
+| **Professor Messer Study Groups** | [Study-group archive](https://www.professormesser.com/category/security-plus/sy0-701/sy0-701-study-group/) | Scenario questions with detailed reasoning | Phases 2–4 |
+| **Professor Messer Pop Quizzes** | [SY0-701 pop quizzes](https://www.professormesser.com/category/security-plus/sy0-701/sy0-701-pop-quiz/) | Short daily reinforcement | Phases 2–3 |
+| **ExamCompass** | [Free Security+ practice tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests) | Topic questions, acronyms, and recall | After each domain |
+| **Crucial Exams** | [SY0-701 practice questions](https://crucialexams.com/exams/comptia/security/sy0-701/practice-tests-practice-questions) | Mixed practice, flashcards, and selected simulations | Phases 3–4 |
+
+Access conditions may change. Always verify that the selected question bank is aligned with **SY0-701**.
+
+---
+
+# How to Analyse a Practice Question
+
+For every question:
+
+1. Identify whether it asks for the **best**, **first**, **next**, **most likely**, or **most secure** answer.
+2. Separate relevant facts from distracting information.
+3. Identify the underlying domain and objective.
+4. Eliminate answers that are true but do not solve the stated problem.
+5. Select the answer that best matches the required priority.
+6. Review the explanation even when your answer is correct.
+7. Record guessed or uncertain answers in the error log.
+
+### Example
+
+**Scenario:** Active ransomware encryption is detected on several endpoints. What should the security team do first?
+
+Restoring from backup is important, but it is not normally the first action while the threat is actively spreading.
+
+The immediate operational priority is usually **containment**, such as isolating affected endpoints. Restoration belongs to the recovery phase after containment and eradication decisions.
+
+Security+ frequently tests the correct **sequence and priority**, not only terminology.
+
+---
+
+# Error-Remediation Method
+
+Use the following structure:
+
+| Date | Domain | Objective | Question summary | Error type | Correct principle | Remediation action |
+|---|---|---|---|---|---|---|
+| YYYY-MM-DD | 4 | 4.x | Ransomware response | Sequence error | Contain before recovery | Review incident-response lifecycle and retest |
+
+## Error categories
+
+- **Knowledge gap:** The concept was unknown.
+- **Terminology confusion:** Two related concepts were mixed.
+- **Scenario error:** The concepts were known but incorrectly applied.
+- **Sequence error:** The correct action was selected at the wrong stage.
+- **Keyword error:** “First,” “best,” or “most appropriate” was missed.
+- **Guess:** The correct answer was selected without reliable reasoning.
+- **Time pressure:** The question was rushed or overanalysed.
+
+Treat guessed answers as incorrect until the reasoning is understood.
+
+---
+
+# The arharif Learning Method
 
 ```text
 LEARN → EXPLAIN → APPLY → TEST → REVIEW → RETEST
 ```
 
-### 1. Learn
+## Learn
 
-Watch the relevant video and read the corresponding section of the handbook.
+Watch the relevant lesson and read the corresponding handbook section.
 
-### 2. Explain
+## Explain
 
-Explain the concept aloud without looking at notes.
-
-A strong explanation should answer:
+Without notes, answer:
 
 - What is it?
 - Why does it exist?
@@ -456,325 +608,198 @@ A strong explanation should answer:
 - How does it work?
 - When should it be used?
 - What are its limitations?
-- With which similar concept could it be confused?
+- Which similar concept could be confused with it?
 
-### 3. Apply
+## Apply
 
-Create a practical scenario.
+Create a realistic organisational scenario and select appropriate controls.
 
-Example:
+## Test
 
-> A remote administrator requires access to production servers. Which controls should protect this access, and why?
+Complete questions mapped to the objective.
 
-A mature response may include MFA, PAM, a jump server, a VPN or Zero Trust access, session recording, least privilege, approval workflows, monitoring, and periodic access review.
+## Review
 
-### 4. Test
+Analyse incorrect, guessed, and uncertain answers.
 
-Complete topic-based QCMs before moving to mixed mock exams.
+## Retest
 
-### 5. Review
-
-Maintain an error log for:
-
-- Incorrect answers
-- Correct answers based on guessing
-- Confused terminology
-- Missed scenario keywords
-- Weak objectives
-- Time-management problems
-
-### 6. Retest
-
-Return to the corresponding objective, explain it again, and complete a new question set.
+Return to the objective and complete a new set of questions.
 
 ---
 
-# 📝 Free QCM and Mock-Exam Platforms
+# Optional Practical Reinforcement
 
-Use only legitimate practice resources. Questions should help you learn the objectives—not reproduce protected live examination content.
+Security+ is not a penetration-testing certification, but practical experience improves understanding.
 
-| Platform | Free Resource | Best Use | Recommended Stage |
-|---|---|---|---|
-| **Professor Messer Study Groups** | [Open the replay library](https://www.professormesser.com/security-plus/sy0-701/sy0-701-study-group/sy0-701-security-study-group-replays/) | Scenario questions with detailed instructor reasoning | During and after the video course |
-| **Professor Messer Pop Quizzes** | [Open SY0-701 pop quizzes](https://www.professormesser.com/category/security-plus/sy0-701/sy0-701-pop-quiz/) | Frequent short QCM practice | Daily reinforcement |
-| **ExamCompass** | [Open free SY0-701 practice tests](https://www.examcompass.com/comptia/security-plus-certification/free-security-plus-practice-tests) | Topic quizzes, acronym tests, and repeated recall | After each domain |
-| **Crucial Exams** | [Open SY0-701 practice materials](https://crucialexams.com/exams/comptia/security/sy0-701/practice-tests-practice-questions) | Free short tests, explanations, flashcards, and PBQ previews | After completing the handbook |
-| **Professor Messer Course Index** | [Open the free course index](https://www.professormesser.com/security-plus/sy0-701/sy0-701-video/sy0-701-comptia-security-plus-course/) | Find lessons by exact exam objective | Targeted remediation |
+Safe activities include:
 
-> [!TIP]
-> Do not evaluate readiness using questions you have memorised. Your most meaningful score comes from a **new, unseen, timed test**.
+- Analyse Windows and Linux authentication logs
+- Review firewall allow and deny rules
+- Compare HTTP and HTTPS
+- Inspect a TLS certificate
+- Build an asset inventory
+- Create a vulnerability-remediation workflow
+- Configure MFA in a test account
+- Draw a segmented enterprise network
+- Write a phishing-incident procedure
+- Create a risk-register entry
+- Conduct a tabletop ransomware exercise
+- Test backup restoration in an authorised lab
 
----
-
-## 🎯 How to Use Practice Questions Correctly
-
-For each question:
-
-1. Identify whether it asks for the **best**, **first**, **next**, **most likely**, or **most secure** answer.
-2. Separate relevant facts from distracting information.
-3. Determine the underlying domain and objective.
-4. Eliminate answers that are technically true but do not solve the stated problem.
-5. Select the answer that best matches the requested priority.
-6. Review the explanation even when your answer is correct.
-7. Record uncertain answers in your error log.
-
-### Example reasoning pattern
-
-**Question:** A company detects active ransomware encryption on several endpoints. What should the security team do first?
-
-Do not immediately choose “restore from backup” simply because backups are important.
-
-The first operational priority is usually to **contain the spread**, for example by isolating affected systems. Restoration belongs to the recovery phase after containment and eradication decisions.
-
-Security+ frequently assesses the **correct sequence of actions**, not only definitions.
+> [!WARNING]
+> Perform technical exercises only on systems you own or are explicitly authorised to test.
 
 ---
 
-## 📊 Recommended Score Targets
+# Master Progress Tracker
 
-| Stage | Target | Interpretation |
-|---|---:|---|
-| First topic quiz | **60–70%** | Normal during initial learning |
-| Domain review | **75–80%** | Foundation is becoming reliable |
-| New mixed mock exam | **80–85%** | Strong readiness indicator |
-| Repeated test | Not reliable alone | The score may reflect memorisation |
-| Guessed answer | Count as incorrect | Understanding is not yet proven |
+## Foundation
 
-> [!CAUTION]
-> No practice-test percentage guarantees a pass. Use scores as evidence of strengths and weaknesses, not as a promise.
-
----
-
-# 📅 Eight-Week Study Plan
-
-## Week 1 — Domain 1: General Security Concepts
-
-- [ ] Watch Domain 1 videos.
-- [ ] Review security control categories and types.
-- [ ] Master CIA, AAA, Zero Trust, and non-repudiation.
-- [ ] Study change management.
-- [ ] Study cryptography and PKI.
-- [ ] Complete Domain 1 handbook questions.
-- [ ] Complete topic-based QCMs.
-- [ ] Record weak concepts.
-
-## Week 2 — Domain 2: Threat Actors and Attack Surfaces
-
-- [ ] Study threat actors, attributes, and motivations.
-- [ ] Study threat vectors and social engineering.
-- [ ] Create examples for phishing, smishing, vishing, BEC, and pretexting.
-- [ ] Complete targeted QCMs.
-- [ ] Explain threat versus vulnerability versus risk.
-
-## Week 3 — Domain 2: Vulnerabilities, Attacks, and Mitigations
-
-- [ ] Study application, web, cloud, mobile, hardware, and virtualisation vulnerabilities.
-- [ ] Study malware, network, password, and cryptographic attacks.
-- [ ] Identify indicators of malicious activity.
-- [ ] Map each attack to appropriate mitigations.
-- [ ] Complete Domain 2 handbook questions and QCMs.
-
-## Week 4 — Domain 3: Security Architecture
-
-- [ ] Study cloud, hybrid, virtualisation, containers, IoT, ICS, and embedded systems.
-- [ ] Study segmentation, firewalls, WAF, IDS/IPS, VPN, SASE, and secure access.
-- [ ] Study data classification, states, sovereignty, and protection.
-- [ ] Study resilience, backups, redundancy, and recovery.
-- [ ] Complete Domain 3 questions and QCMs.
-
-## Week 5 — Domain 4: Security Operations
-
-- [ ] Study hardening, secure baselines, patching, and asset management.
-- [ ] Study vulnerability management.
-- [ ] Study SIEM, SOAR, EDR, DLP, IDS/IPS, and logs.
-- [ ] Study IAM, MFA, SSO, federation, and PAM.
-- [ ] Study incident response and digital forensics.
-- [ ] Complete Domain 4 questions and QCMs.
-
-## Week 6 — Domain 5: Governance, Risk, and Oversight
-
-- [ ] Study policies, standards, procedures, and guidelines.
-- [ ] Study qualitative and quantitative risk.
-- [ ] Study vendor and third-party risk.
-- [ ] Study compliance, privacy, audits, and assessments.
-- [ ] Study awareness, continuity, disaster recovery, and crisis management.
-- [ ] Complete Domain 5 questions and QCMs.
-
-## Week 7 — Mixed Practice and PBQs
-
-- [ ] Complete mixed-domain practice tests.
-- [ ] Practise PBQ-style scenarios.
-- [ ] Review network diagrams, firewall rules, logs, and incident sequences.
-- [ ] Revisit every Red or Amber objective.
-- [ ] Build an acronym revision sheet.
-- [ ] Explain every incorrect answer.
-
-## Week 8 — Final Validation
-
-- [ ] Complete at least three new timed mock exams.
-- [ ] Use a 90-minute limit.
-- [ ] Practise skipping and returning to difficult questions.
-- [ ] Review only weak areas—not the entire course again.
-- [ ] Confirm identity documents, exam rules, location, and technical requirements.
-- [ ] Rest properly before the exam.
-
----
-
-## ✅ Master Progress Tracker
-
-### Foundation
-
-- [ ] I downloaded and reviewed the official SY0-701 objectives.
-- [ ] I completed the Professor Messer playlist.
-- [ ] I completed the arharif Master Course PDF.
+- [ ] I reviewed the current SY0-701 exam scope.
+- [ ] I completed the Professor Messer video course.
+- [ ] I completed the arharif Security+ Master Course.
+- [ ] I created an acronym and terminology sheet.
 - [ ] I created an error log.
-- [ ] I created an acronym sheet.
 
-### Domains
+## Domains
 
-- [ ] Domain 1 mastered
-- [ ] Domain 2 mastered
-- [ ] Domain 3 mastered
-- [ ] Domain 4 mastered
-- [ ] Domain 5 mastered
+- [ ] Domain 1 — General Security Concepts
+- [ ] Domain 2 — Threats, Vulnerabilities, and Mitigations
+- [ ] Domain 3 — Security Architecture
+- [ ] Domain 4 — Security Operations
+- [ ] Domain 5 — Security Programme Management and Oversight
 
-### Practical Understanding
+## Applied understanding
 
-- [ ] I can explain CIA and AAA using real examples.
+- [ ] I can explain CIA and AAA using realistic examples.
 - [ ] I can distinguish encryption, hashing, and digital signatures.
-- [ ] I can identify common attacks and select suitable mitigations.
-- [ ] I can analyse basic logs and security alerts.
-- [ ] I can describe incident response in the correct order.
-- [ ] I can explain IAM, MFA, SSO, federation, RBAC, and PAM.
-- [ ] I can explain vulnerability prioritisation using business context.
+- [ ] I can identify common attacks and select proportionate mitigations.
+- [ ] I can analyse basic logs and alerts.
+- [ ] I can explain incident response in the correct sequence.
+- [ ] I can explain MFA, SSO, federation, RBAC, and PAM.
+- [ ] I can prioritise vulnerabilities using business context.
 - [ ] I can distinguish governance documents and assurance activities.
-- [ ] I can explain risk treatment and residual risk.
-- [ ] I can connect technical controls to business risk.
+- [ ] I can explain inherent risk, residual risk, and risk treatment.
+- [ ] I can connect technical controls to business objectives.
 
-### Exam Readiness
+## Readiness
 
-- [ ] I consistently score at least 80–85% on new mixed tests.
-- [ ] I complete mock exams within the time limit.
-- [ ] I review guessed answers as though they were incorrect.
-- [ ] I can analyse PBQ-style scenarios without panic.
-- [ ] I understand why incorrect alternatives are wrong.
+- [ ] Every official objective has been reviewed.
+- [ ] Red and Amber objectives have been remediated.
+- [ ] I consistently achieve 80–85% on unseen mixed tests.
+- [ ] I complete practice exams within the time limit.
+- [ ] I review guessed answers as incorrect.
+- [ ] I can approach PBQ-style scenarios methodically.
+- [ ] I understand why incorrect alternatives are unsuitable.
 - [ ] I am not relying on memorised question banks.
 
 ---
 
-## 📒 Recommended Error Log
+# Content Quality Framework
 
-Create a table in a notebook or spreadsheet:
+Every resource or contribution should satisfy the **ARPE Framework**:
 
-| Date | Domain | Objective | Question Summary | My Error | Correct Principle | Action |
-|---|---|---|---|---|---|---|
-| YYYY-MM-DD | 4 | 4.x | Incident containment | Selected recovery first | Contain before recovery | Re-read IR lifecycle and retest |
-
-### Error categories
-
-- **Knowledge gap:** I did not know the concept.
-- **Terminology confusion:** I mixed two related terms.
-- **Scenario error:** I knew the concepts but chose the wrong one.
-- **Sequence error:** I selected the correct action at the wrong stage.
-- **Keyword error:** I missed “first,” “best,” or “most appropriate.”
-- **Guess:** I selected the correct answer without reliable reasoning.
-- **Time pressure:** I rushed or overanalysed.
+| Principle | Requirement |
+|---|---|
+| **Aligned** | Maps to current SY0-701 objectives |
+| **Reliable** | Uses technically defensible and current information |
+| **Practical** | Connects knowledge to realistic security decisions |
+| **Ethical** | Does not reproduce protected examination material |
 
 ---
 
-## 🧪 Optional Hands-On Reinforcement
+# Content Governance
 
-Security+ is not a penetration-testing certification, but practical exposure improves understanding.
-
-Useful activities include:
-
-- Analyse Windows and Linux authentication logs.
-- Review firewall allow and deny rules.
-- Compare HTTP and HTTPS traffic.
-- Inspect a TLS certificate.
-- Build a basic asset inventory.
-- Create a vulnerability-remediation workflow.
-- Configure MFA in a test account.
-- Draw a segmented enterprise network.
-- Write a phishing-incident response procedure.
-- Create a risk register entry.
-- Perform a tabletop ransomware exercise.
-- Test backup restoration in a safe lab.
-
-Only perform technical exercises in systems you own or are explicitly authorised to test.
-
----
-
-## 📁 Recommended Repository Structure
+## Current edition
 
 ```text
-security-plus-sy0-701/
+Edition: 2026.1
+Exam alignment: CompTIA Security+ SY0-701
+Last content review: August 2026
+Maintainer: Anass Rharif
+```
+
+The repository should be reviewed when:
+
+- CompTIA changes examination objectives or policies
+- A major linked resource becomes unavailable
+- Technical guidance becomes outdated
+- A validated accuracy issue is reported
+- The master handbook is updated
+
+---
+
+# Repository Structure
+
+```text
+security-plus-sy0-701-roadmap/
 ├── README.md
 ├── resources/
 │   └── Security_Plus_SY0-701_Master_Course_arharif.pdf
-├── notes/
-│   ├── domain-1-general-security-concepts.md
-│   ├── domain-2-threats-vulnerabilities-mitigations.md
-│   ├── domain-3-security-architecture.md
-│   ├── domain-4-security-operations.md
-│   └── domain-5-program-management-oversight.md
-├── trackers/
-│   ├── objectives-checklist.md
-│   └── error-log-template.csv
 └── LICENSE
 ```
 
-Only the `README.md` and PDF are required to begin. The additional folders may be added later as the repository grows.
+The repository can remain intentionally simple. The README provides the learning system, and the `resources` directory contains the deep-study handbook.
 
 ---
 
-## 🚫 Exam Integrity
+# Maintainer
 
-This repository supports ethical certification preparation.
+**Anass Rharif — Cybersecurity, GRC, and AI Research**
 
-Do not use:
+This repository is maintained as an independent cybersecurity education initiative focused on making technical knowledge structured, practical, ethical, and accessible.
 
-- Leaked examination questions
-- Brain dumps
-- Stolen PBQs
-- Content claiming to reproduce the live exam
-- Memorised questions shared in violation of candidate agreements
-
-Use legitimate learning resources and original practice material. A certification has value only when it represents genuine knowledge and professional integrity.
+- Portfolio: [arharif.github.io](https://arharif.github.io/)
+- GitHub: [github.com/arharif](https://github.com/arharif)
 
 ---
 
-## 🤝 Contributions
+# Contributions
 
 Constructive contributions are welcome when they:
 
 - Improve technical accuracy
-- Clarify difficult concepts
+- Clarify a difficult concept
 - Add legal and reputable free resources
-- Correct outdated links
+- Correct outdated or broken links
 - Improve accessibility or readability
-- Add original study tools without reproducing protected examination content
+- Add original study material aligned with SY0-701
 
-Do not submit exam dumps, confidential questions, or copyrighted material without permission.
+Do not submit:
+
+- Exam dumps
+- Recalled live-exam questions
+- Stolen PBQs
+- Confidential examination content
+- Copyrighted material without permission
 
 ---
 
-## ⚖️ Copyright and Disclaimer
+# Exam Integrity
 
-**© 2026 arharif. All rights reserved.**  
-Portfolio: [https://arharif.github.io/](https://arharif.github.io/)
+This repository supports ethical certification preparation.
 
-This repository is an independent educational initiative. CompTIA, Security+, and related marks are trademarks of CompTIA, Inc. The repository owner is not affiliated with or endorsed by CompTIA.
+A certification has professional value only when it represents genuine knowledge and responsible conduct. Learners should use legitimate courses, original practice material, authorised laboratories, and official examination guidance.
 
-External resources remain the property of their respective authors and organisations. Links are provided for educational reference. Availability and free-access conditions may change.
+---
+
+# Disclaimer
+
+**© 2026 arharif. All rights reserved.**
+
+This repository is an independent educational initiative. CompTIA, Security+, and associated marks are trademarks of CompTIA, Inc. This repository is not affiliated with, endorsed by, or sponsored by CompTIA.
+
+External resources remain the property of their respective authors and organisations. Links are provided for educational reference, and their availability or access conditions may change.
 
 ---
 
 <div align="center">
 
-### 🛡️ Learn deeply. Practise ethically. Think like a security professional.
+## Learn deeply. Practise ethically. Think like a security professional.
 
-[![Portfolio](https://img.shields.io/badge/Visit-arharif.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://arharif.github.io/)
-[![YouTube Course](https://img.shields.io/badge/Start-Professor%20Messer%20SY0--701-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
+[![Start Learning](https://img.shields.io/badge/Start-Professor%20Messer%20SY0--701-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=KiEptGbnEBc&list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv)
+[![Read the Handbook](https://img.shields.io/badge/Read-arharif%20Master%20Course-B91C1C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./resources/Security_Plus_SY0-701_Master_Course_arharif.pdf)
+[![Visit Portfolio](https://img.shields.io/badge/Visit-arharif.github.io-111827?style=for-the-badge&logo=githubpages&logoColor=white)](https://arharif.github.io/)
 
 </div>
